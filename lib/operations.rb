@@ -1,10 +1,10 @@
-def unsafe?(speed)
+if/else unsafe?(speed)
 
 end
 
 
 
-def not_safe?(speed)
+(?:) not_safe?(speed)
 	
 end
 	
